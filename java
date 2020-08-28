@@ -25,7 +25,7 @@ public class Fibonacci {
 			for(i=2;i<=numero;i++){
 				fibo2 = fibo1 + fibo2;
 				fibo1 = fibo2 - fibo1;
-             //System.out.print(fibo2 + " ");
+             //System.out.print(fibo2 / " ");
             
 			} 
         
